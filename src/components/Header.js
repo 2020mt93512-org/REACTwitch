@@ -15,6 +15,8 @@ const Header = () => {
         <GoogleAuth />
       </div>
       Dev 1 Feature 1 Header Change
+      <br />
+Dev 2 Feature 2 Header change
     </div>
   );
 };
