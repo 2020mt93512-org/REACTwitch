@@ -14,7 +14,7 @@ const Header = () => {
         </Link>
         <GoogleAuth />
       </div>
-      Dev1 Feature 1 change
+      Dev 2 Feature 2 header change
     </div>
   );
 };
